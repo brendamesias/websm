@@ -1,0 +1,2 @@
+# FINDUS
+### Findus es una plataforma web para que los estudiantes de la Universidad Nacional Mayor de San Marcos puedan acceder facilmente a toda la información sobre eventos y ofertas laborales dispersos en diversos medios, solucionando de esta manera el problema de la información dispersa para los alumnos de la universidad mencionada.
